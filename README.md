@@ -1,4 +1,4 @@
-# Quasar Todo (quasar-todo)
+# Quasar Leaflet (quasar-leaflet)
 
 A Quasar Framework app
 
